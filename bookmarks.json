@@ -1,0 +1,268 @@
+[
+  {
+    "title": "サブスクリプションサービスをつくる時にエンジニアが考えること / Behind the Scenes: Engineering a Subscription Service",
+    "url": "https://speakerdeck.com/ohbarye/behind-the-scenes-engineering-a-subscription-service",
+    "bookmarks": 410,
+    "category": "テクノロジー",
+    "date": "2023/08/03 20:09",
+    "tags": [
+      "development",
+      "subscription",
+      "web開発",
+      "あとで読む",
+      "エンジニア",
+      "決済",
+      "設計",
+      "課金",
+      "資料",
+      "開発"
+    ]
+  },
+  {
+    "title": "DB外の副作用をトランザクションから分離しよう / Isolate out-of-DB side effects from transactions",
+    "url": "https://speakerdeck.com/ohbarye/isolate-out-of-db-side-effects-from-transactions",
+    "bookmarks": 195,
+    "category": "テクノロジー",
+    "date": "2023/04/20 21:31",
+    "tags": [
+      "database",
+      "db",
+      "engineering",
+      "rails",
+      "transaction",
+      "あとで読む",
+      "システム開発",
+      "データベース",
+      "トランザクション",
+      "設計"
+    ]
+  },
+  {
+    "title": "管理機能アーキテクチャパターンの考察と実践 / Learn Architecture through Admin",
+    "url": "https://speakerdeck.com/ohbarye/learn-architecture-through-admin",
+    "bookmarks": 154,
+    "category": "テクノロジー",
+    "date": "2023/10/28 15:12",
+    "tags": [
+      "Webサービス",
+      "architecture",
+      "rails",
+      "あとで読む",
+      "アーキテクチャ",
+      "設計",
+      "資料",
+      "運用",
+      "開発"
+    ]
+  },
+  {
+    "title": "貢献できるOSSの見つけ方 -完結編- / How to find \"Good First Issues\" Final",
+    "url": "https://speakerdeck.com/ohbarye/how-to-find-good-first-issues-final",
+    "bookmarks": 120,
+    "category": "テクノロジー",
+    "date": "2018/11/23 16:53",
+    "tags": [
+      "JavaScript",
+      "contribution",
+      "development",
+      "node",
+      "oss",
+      "programming",
+      "slide",
+      "software",
+      "あとで読む",
+      "プログラミング"
+    ]
+  },
+  {
+    "title": "貢献できるOSSの見つけ方 / How to find \"Good First Issues\"",
+    "url": "https://speakerdeck.com/ohbarye/how-to-find-good-first-issues",
+    "bookmarks": 112,
+    "category": "テクノロジー",
+    "date": "2018/06/27 00:40",
+    "tags": [
+      "OSS",
+      "Tech",
+      "development",
+      "github",
+      "js",
+      "あとで読む"
+    ]
+  },
+  {
+    "title": "フロントエンドのレベル上げ / Level up front-end skills for Rails developer",
+    "url": "https://speakerdeck.com/ohbarye/level-up-front-end-skills-for-rails-developer",
+    "bookmarks": 58,
+    "category": "テクノロジー",
+    "date": "2018/05/24 20:57",
+    "tags": [
+      "Rails",
+      "frontend",
+      "jQuery",
+      "javascript",
+      "webpack",
+      "あとで読む"
+    ]
+  },
+  {
+    "title": "エンジニアも気にしたい色のアクセシビリティ / Color Accessibility that engineers should care",
+    "url": "https://speakerdeck.com/ohbarye/color-accessibility-that-engineers-should-care",
+    "bookmarks": 57,
+    "category": "テクノロジー",
+    "date": "2018/05/29 20:47",
+    "tags": [
+      "*あとで読む",
+      "accessibility",
+      "color",
+      "design",
+      "あとで読む",
+      "アクセシビリティ",
+      "エンジニア"
+    ]
+  },
+  {
+    "title": "Data Migration on Rails",
+    "url": "https://speakerdeck.com/ohbarye/data-migration-on-rails",
+    "bookmarks": 40,
+    "category": "テクノロジー",
+    "date": "2024/10/26 15:09",
+    "tags": [
+      "kaigionrails",
+      "migration",
+      "rails",
+      "slide",
+      "あとで読む",
+      "データ"
+    ]
+  },
+  {
+    "title": "Quipperが実践する 定量データに基づく意思決定と開発 / Fact-based decision making and development by Quipper",
+    "url": "https://speakerdeck.com/ohbarye/fact-based-decision-making-and-development-by-quipper",
+    "bookmarks": 37,
+    "category": "テクノロジー",
+    "date": "2018/07/14 22:35",
+    "tags": [
+      "あとで読む",
+      "開発"
+    ]
+  },
+  {
+    "title": "Migration from React Native to PWA",
+    "url": "https://speakerdeck.com/ohbarye/migration-from-react-native-to-pwa",
+    "bookmarks": 36,
+    "category": "テクノロジー",
+    "date": "2019/12/01 13:51",
+    "tags": [
+      "pwa",
+      "react-native",
+      "slide",
+      "あとで読む"
+    ]
+  },
+  {
+    "title": "続・貢献できるOSSの見つけ方 / How to find \"Good First Issues\" part 2",
+    "url": "https://speakerdeck.com/ohbarye/how-to-find-good-first-issues-part-2",
+    "bookmarks": 35,
+    "category": "テクノロジー",
+    "date": "2018/08/24 10:41",
+    "tags": [
+      "OSS",
+      "github",
+      "js",
+      "あとで読む",
+      "資料"
+    ]
+  },
+  {
+    "title": "My Favorite Protocol: Idempotency-Key Header",
+    "url": "https://speakerdeck.com/ohbarye/my-favorite-protocol-idempotency-key-header",
+    "bookmarks": 31,
+    "category": "テクノロジー",
+    "date": "2024/02/10 12:28",
+    "tags": [
+      "network",
+      "あとで読む",
+      "ネットワーク"
+    ]
+  },
+  {
+    "title": "エンジニア9名でプロポーザル提出8件, 採択3件を支える技術と文化 / Proposal Fight Culture",
+    "url": "https://speakerdeck.com/ohbarye/proposal-fight-culture",
+    "bookmarks": 10,
+    "category": "テクノロジー",
+    "date": "2023/11/09 20:36",
+    "tags": [
+      "エンジニア",
+      "技術",
+      "文化"
+    ]
+  },
+  {
+    "title": "決済のトランザクション管理術 / How to Manage Payment Transaction",
+    "url": "https://speakerdeck.com/ohbarye/how-to-manage-payment-transaction",
+    "bookmarks": 10,
+    "category": "テクノロジー",
+    "date": "2018/09/28 00:09",
+    "tags": []
+  },
+  {
+    "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
+    "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
+    "bookmarks": 9,
+    "category": "テクノロジー",
+    "date": "2019/01/11 11:37",
+    "tags": [
+      "プログラム"
+    ]
+  },
+  {
+    "title": "サブスクリプションサービスにおけるIn-App Purchase再考",
+    "url": "https://speakerdeck.com/ohbarye/rethink-in-app-purchase-on-subscription-services",
+    "bookmarks": 9,
+    "category": "テクノロジー",
+    "date": "2018/09/01 12:57",
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "title": "プロポーザルのつくり方〜個人技編〜 / How to come up with proposals",
+    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
+    "bookmarks": 6,
+    "category": "テクノロジー",
+    "date": "2024/11/05 23:46",
+    "tags": []
+  },
+  {
+    "title": "Unlocking Potential of Property Based Testing with Ractor",
+    "url": "https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor",
+    "bookmarks": 5,
+    "category": "テクノロジー",
+    "date": "2024/05/18 18:02",
+    "tags": []
+  },
+  {
+    "title": "Balance Security and Usability in the Field of 3D Secure",
+    "url": "https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure",
+    "bookmarks": 4,
+    "category": "テクノロジー",
+    "date": "2022/10/21 21:46",
+    "tags": []
+  },
+  {
+    "title": "RuboCop Custom Formatter for Reviewdog Diagnostic Format",
+    "url": "https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format",
+    "bookmarks": 4,
+    "category": "テクノロジー",
+    "date": "2023/06/22 10:51",
+    "tags": []
+  },
+  {
+    "title": "プロトタイピングによる不確実性の低減 / Reducing Uncertainty through Prototyping",
+    "url": "https://speakerdeck.com/ohbarye/reducing-uncertainty-through-prototyping",
+    "bookmarks": 3,
+    "category": "テクノロジー",
+    "date": "2024/04/18 20:05",
+    "tags": []
+  }
+]

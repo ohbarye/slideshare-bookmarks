@@ -3,14 +3,24 @@ require 'open-uri'
 require 'json'
 require 'debug'
 
-# Write your own scraping code here
-url = "https://example.com"
+url = "https://b.hatena.ne.jp/site/speakerdeck.com/ohbarye"
 html = URI.open(url).read
 doc = Nokogiri::HTML(html)
-items = doc.css('p').map do |item|
+items = doc.css('.entrylist-contents').map do |item|
+  title = item.css('.entrylist-contents-title').text.strip.gsub(/\u2028/, '')
+  url = item.css('.entrylist-contents-title a').attr('href').value
+  bookmarks = Integer(item.css('.entrylist-contents-users span').text.strip)
+  category = item.css('.entrylist-contents-category').text.strip
+  date = item.css('.entrylist-contents-date').text.strip
+  tags = item.css('ul.entrylist-contents-tags > li').map{ it.text.strip }.sort
   {
-    text: item.text,
+    title:,
+    url:,
+    bookmarks:,
+    category:,
+    date:,
+    tags:,
   }
-end
+end.sort_by{ |item| -item[:bookmarks] }
 
-File.write('result.json', JSON.pretty_generate(items))
+File.write('bookmarks.json', JSON.pretty_generate(items))
