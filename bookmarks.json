@@ -205,16 +205,6 @@
     "tags": []
   },
   {
-    "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
-    "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
-    "bookmarks": 9,
-    "category": "テクノロジー",
-    "date": "2019/01/11 11:37",
-    "tags": [
-      "プログラム"
-    ]
-  },
-  {
     "title": "サブスクリプションサービスにおけるIn-App Purchase再考",
     "url": "https://speakerdeck.com/ohbarye/rethink-in-app-purchase-on-subscription-services",
     "bookmarks": 9,
@@ -222,6 +212,16 @@
     "date": "2018/09/01 12:57",
     "tags": [
       "ios"
+    ]
+  },
+  {
+    "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
+    "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
+    "bookmarks": 9,
+    "category": "テクノロジー",
+    "date": "2019/01/11 11:37",
+    "tags": [
+      "プログラム"
     ]
   },
   {
@@ -233,19 +233,21 @@
     "tags": []
   },
   {
+    "title": "Git scrapingで始める継続的なデータ追跡 / Git Scraping",
+    "url": "https://speakerdeck.com/ohbarye/git-scraping",
+    "bookmarks": 6,
+    "category": "テクノロジー",
+    "date": "2025/01/17 23:18",
+    "tags": [
+      "github"
+    ]
+  },
+  {
     "title": "Unlocking Potential of Property Based Testing with Ractor",
     "url": "https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor",
     "bookmarks": 5,
     "category": "テクノロジー",
     "date": "2024/05/18 18:02",
-    "tags": []
-  },
-  {
-    "title": "Git scrapingで始める継続的なデータ追跡 / Git Scraping",
-    "url": "https://speakerdeck.com/ohbarye/git-scraping",
-    "bookmarks": 5,
-    "category": "テクノロジー",
-    "date": "2025/01/17 23:18",
     "tags": []
   },
   {
