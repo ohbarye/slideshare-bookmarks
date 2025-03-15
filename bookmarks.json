@@ -90,6 +90,16 @@
     ]
   },
   {
+    "title": "組織のスケールを見据えたプロジェクトリードエンジニア制度の実践 / Project Lead Engineer for Scaling Engineering Organization",
+    "url": "https://speakerdeck.com/ohbarye/project-lead-engineer-for-scaling-engineering-organization",
+    "bookmarks": 67,
+    "category": "テクノロジー",
+    "date": "2025/03/15 00:58",
+    "tags": [
+      "あとで読む"
+    ]
+  },
+  {
     "title": "フロントエンドのレベル上げ / Level up front-end skills for Rails developer",
     "url": "https://speakerdeck.com/ohbarye/level-up-front-end-skills-for-rails-developer",
     "bookmarks": 58,
@@ -235,14 +245,6 @@
     ]
   },
   {
-    "title": "プロポーザルのつくり方〜個人技編〜 / How to come up with proposals",
-    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
-    "bookmarks": 6,
-    "category": "テクノロジー",
-    "date": "2024/11/05 23:46",
-    "tags": []
-  },
-  {
     "title": "Git scrapingで始める継続的なデータ追跡 / Git Scraping",
     "url": "https://speakerdeck.com/ohbarye/git-scraping",
     "bookmarks": 6,
@@ -253,6 +255,14 @@
     ]
   },
   {
+    "title": "プロポーザルのつくり方〜個人技編〜 / How to come up with proposals",
+    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
+    "bookmarks": 6,
+    "category": "テクノロジー",
+    "date": "2024/11/05 23:46",
+    "tags": []
+  },
+  {
     "title": "Unlocking Potential of Property Based Testing with Ractor",
     "url": "https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor",
     "bookmarks": 5,
@@ -261,19 +271,19 @@
     "tags": []
   },
   {
-    "title": "Balance Security and Usability in the Field of 3D Secure",
-    "url": "https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure",
-    "bookmarks": 4,
-    "category": "テクノロジー",
-    "date": "2022/10/21 21:46",
-    "tags": []
-  },
-  {
     "title": "RuboCop Custom Formatter for Reviewdog Diagnostic Format",
     "url": "https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format",
     "bookmarks": 4,
     "category": "テクノロジー",
     "date": "2023/06/22 10:51",
+    "tags": []
+  },
+  {
+    "title": "Balance Security and Usability in the Field of 3D Secure",
+    "url": "https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure",
+    "bookmarks": 4,
+    "category": "テクノロジー",
+    "date": "2022/10/21 21:46",
     "tags": []
   },
   {
