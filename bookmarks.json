@@ -75,6 +75,20 @@
     ]
   },
   {
+    "title": "組織のスケールを見据えたプロジェクトリードエンジニア制度の実践 / Project Lead Engineer for Scaling Engineering Organization",
+    "url": "https://speakerdeck.com/ohbarye/project-lead-engineer-for-scaling-engineering-organization",
+    "bookmarks": 114,
+    "category": "テクノロジー",
+    "date": "2025/03/15 00:58",
+    "tags": [
+      "PM",
+      "work",
+      "あとで読む",
+      "エンジニア",
+      "組織"
+    ]
+  },
+  {
     "title": "貢献できるOSSの見つけ方 / How to find \"Good First Issues\"",
     "url": "https://speakerdeck.com/ohbarye/how-to-find-good-first-issues",
     "bookmarks": 112,
@@ -87,20 +101,6 @@
       "github",
       "js",
       "あとで読む"
-    ]
-  },
-  {
-    "title": "組織のスケールを見据えたプロジェクトリードエンジニア制度の実践 / Project Lead Engineer for Scaling Engineering Organization",
-    "url": "https://speakerdeck.com/ohbarye/project-lead-engineer-for-scaling-engineering-organization",
-    "bookmarks": 112,
-    "category": "テクノロジー",
-    "date": "2025/03/15 00:58",
-    "tags": [
-      "PM",
-      "work",
-      "あとで読む",
-      "エンジニア",
-      "組織"
     ]
   },
   {
@@ -249,6 +249,14 @@
     ]
   },
   {
+    "title": "プロポーザルのつくり方〜個人技編〜 / How to come up with proposals",
+    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
+    "bookmarks": 6,
+    "category": "テクノロジー",
+    "date": "2024/11/05 23:46",
+    "tags": []
+  },
+  {
     "title": "Git scrapingで始める継続的なデータ追跡 / Git Scraping",
     "url": "https://speakerdeck.com/ohbarye/git-scraping",
     "bookmarks": 6,
@@ -257,14 +265,6 @@
     "tags": [
       "github"
     ]
-  },
-  {
-    "title": "プロポーザルのつくり方〜個人技編〜 / How to come up with proposals",
-    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
-    "bookmarks": 6,
-    "category": "テクノロジー",
-    "date": "2024/11/05 23:46",
-    "tags": []
   },
   {
     "title": "Unlocking Potential of Property Based Testing with Ractor",
