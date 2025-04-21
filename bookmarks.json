@@ -275,19 +275,19 @@
     "tags": []
   },
   {
-    "title": "RuboCop Custom Formatter for Reviewdog Diagnostic Format",
-    "url": "https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format",
-    "bookmarks": 4,
-    "category": "テクノロジー",
-    "date": "2023/06/22 10:51",
-    "tags": []
-  },
-  {
     "title": "Balance Security and Usability in the Field of 3D Secure",
     "url": "https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure",
     "bookmarks": 4,
     "category": "テクノロジー",
     "date": "2022/10/21 21:46",
+    "tags": []
+  },
+  {
+    "title": "RuboCop Custom Formatter for Reviewdog Diagnostic Format",
+    "url": "https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format",
+    "bookmarks": 4,
+    "category": "テクノロジー",
+    "date": "2023/06/22 10:51",
     "tags": []
   },
   {
@@ -297,5 +297,15 @@
     "category": "テクノロジー",
     "date": "2024/04/18 20:05",
     "tags": []
+  },
+  {
+    "title": "On-the-fly Suggestions of Rewriting Method Deprecations",
+    "url": "https://speakerdeck.com/ohbarye/on-the-fly-suggestions-of-rewriting-method-deprecations",
+    "bookmarks": 3,
+    "category": "テクノロジー",
+    "date": "2025/04/20 11:14",
+    "tags": [
+      "ruby"
+    ]
   }
 ]
