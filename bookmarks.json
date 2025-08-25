@@ -21,7 +21,7 @@
   {
     "title": "DB外の副作用をトランザクションから分離しよう / Isolate out-of-DB side effects from transactions",
     "url": "https://speakerdeck.com/ohbarye/isolate-out-of-db-side-effects-from-transactions",
-    "bookmarks": 194,
+    "bookmarks": 192,
     "category": "テクノロジー",
     "date": "2023/04/20 21:31",
     "tags": [
