@@ -136,6 +136,19 @@
     ]
   },
   {
+    "title": "5年間のFintech × Rails実践に学ぶ - 基本に忠実な運用で築く高信頼性システム / 5 Years Fintech Rails Retrospective",
+    "url": "https://speakerdeck.com/ohbarye/5-years-fintech-rails-retrospective",
+    "bookmarks": 43,
+    "category": "テクノロジー",
+    "date": "2025/09/26 16:39",
+    "tags": [
+      "rails",
+      "ruby",
+      "あとで読む",
+      "システム"
+    ]
+  },
+  {
     "title": "Data Migration on Rails",
     "url": "https://speakerdeck.com/ohbarye/data-migration-on-rails",
     "bookmarks": 38,
@@ -219,23 +232,13 @@
     "tags": []
   },
   {
-    "title": "5年間のFintech × Rails実践に学ぶ - 基本に忠実な運用で築く高信頼性システム / 5 Years Fintech Rails Retrospective",
-    "url": "https://speakerdeck.com/ohbarye/5-years-fintech-rails-retrospective",
-    "bookmarks": 10,
-    "category": "テクノロジー",
-    "date": "2025/09/26 16:39",
-    "tags": [
-      "あとで読む"
-    ]
-  },
-  {
-    "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
-    "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
+    "title": "Two Blades, One Journey: Engineering While Managing",
+    "url": "https://speakerdeck.com/ohbarye/two-blades-one-journey-engineering-while-managing",
     "bookmarks": 9,
     "category": "テクノロジー",
-    "date": "2019/01/11 11:37",
+    "date": "2025/02/27 14:10",
     "tags": [
-      "プログラム"
+      "あとで読む"
     ]
   },
   {
@@ -249,13 +252,13 @@
     ]
   },
   {
-    "title": "Two Blades, One Journey: Engineering While Managing",
-    "url": "https://speakerdeck.com/ohbarye/two-blades-one-journey-engineering-while-managing",
+    "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
+    "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
     "bookmarks": 9,
     "category": "テクノロジー",
-    "date": "2025/02/27 14:10",
+    "date": "2019/01/11 11:37",
     "tags": [
-      "あとで読む"
+      "プログラム"
     ]
   },
   {
