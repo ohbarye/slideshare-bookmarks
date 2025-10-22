@@ -175,7 +175,7 @@
   {
     "title": "続・貢献できるOSSの見つけ方 / How to find \"Good First Issues\" part 2",
     "url": "https://speakerdeck.com/ohbarye/how-to-find-good-first-issues-part-2",
-    "bookmarks": 35,
+    "bookmarks": 34,
     "category": "テクノロジー",
     "date": "2018/08/24 10:41",
     "tags": [
@@ -242,16 +242,6 @@
     ]
   },
   {
-    "title": "サブスクリプションサービスにおけるIn-App Purchase再考",
-    "url": "https://speakerdeck.com/ohbarye/rethink-in-app-purchase-on-subscription-services",
-    "bookmarks": 9,
-    "category": "テクノロジー",
-    "date": "2018/09/01 12:57",
-    "tags": [
-      "ios"
-    ]
-  },
-  {
     "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
     "url": "https://speakerdeck.com/ohbarye/proof-of-value-with-ab-testing",
     "bookmarks": 9,
@@ -259,6 +249,16 @@
     "date": "2019/01/11 11:37",
     "tags": [
       "プログラム"
+    ]
+  },
+  {
+    "title": "サブスクリプションサービスにおけるIn-App Purchase再考",
+    "url": "https://speakerdeck.com/ohbarye/rethink-in-app-purchase-on-subscription-services",
+    "bookmarks": 7,
+    "category": "テクノロジー",
+    "date": "2018/09/01 12:57",
+    "tags": [
+      "ios"
     ]
   },
   {
