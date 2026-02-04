@@ -224,6 +224,14 @@
     ]
   },
   {
+    "title": "決済のトランザクション管理術 / How to Manage Payment Transaction",
+    "url": "https://speakerdeck.com/ohbarye/how-to-manage-payment-transaction",
+    "bookmarks": 10,
+    "category": "テクノロジー",
+    "date": "2018/09/28 00:09",
+    "tags": []
+  },
+  {
     "title": "Two Blades, One Journey: Engineering While Managing",
     "url": "https://speakerdeck.com/ohbarye/two-blades-one-journey-engineering-while-managing",
     "bookmarks": 10,
@@ -232,14 +240,6 @@
     "tags": [
       "あとで読む"
     ]
-  },
-  {
-    "title": "決済のトランザクション管理術 / How to Manage Payment Transaction",
-    "url": "https://speakerdeck.com/ohbarye/how-to-manage-payment-transaction",
-    "bookmarks": 10,
-    "category": "テクノロジー",
-    "date": "2018/09/28 00:09",
-    "tags": []
   },
   {
     "title": "#RSGT2019 プロダクトの「負債」を「機能」と呼び直すために / Proof of value with AB testing",
@@ -252,6 +252,14 @@
     ]
   },
   {
+    "title": "プロポーザルのつくり方 〜個人技編〜 / How to come up with proposals",
+    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
+    "bookmarks": 7,
+    "category": "テクノロジー",
+    "date": "2024/11/05 23:46",
+    "tags": []
+  },
+  {
     "title": "サブスクリプションサービスにおけるIn-App Purchase再考",
     "url": "https://speakerdeck.com/ohbarye/rethink-in-app-purchase-on-subscription-services",
     "bookmarks": 7,
@@ -260,14 +268,6 @@
     "tags": [
       "ios"
     ]
-  },
-  {
-    "title": "プロポーザルのつくり方 〜個人技編〜 / How to come up with proposals",
-    "url": "https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals",
-    "bookmarks": 7,
-    "category": "テクノロジー",
-    "date": "2024/11/05 23:46",
-    "tags": []
   },
   {
     "title": "Git scrapingで始める継続的なデータ追跡 / Git Scraping",
@@ -311,6 +311,14 @@
     "bookmarks": 3,
     "category": "テクノロジー",
     "date": "2022/10/21 21:46",
+    "tags": []
+  },
+  {
+    "title": "Safe Retry with Idempotency-Key Header",
+    "url": "https://speakerdeck.com/ohbarye/safe-retry-with-idempotency-key-header",
+    "bookmarks": 3,
+    "category": "テクノロジー",
+    "date": "2021/10/23 18:32",
     "tags": []
   },
   {
